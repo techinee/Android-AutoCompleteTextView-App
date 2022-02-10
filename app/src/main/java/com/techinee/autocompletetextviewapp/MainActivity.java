@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private AutoCompleteTextView acTextView;
     private MultiAutoCompleteTextView macTextView;
     private String [] inputs = {"Pakistan","Iran","China","India","Thailand","U.A.E","Yemen",
-                                "Palestine","America","Australia","Turkey","Endland","France","Greece"};
+                                "Palestine","America","Australia","Turkey","England","France","Greece"};
     private ImageButton btnSave;
     private int pos = 0;
 
